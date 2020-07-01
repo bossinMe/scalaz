@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/bles/traiting/target/scala-2.13/traiting_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DonutShoppingCartServices.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bles/traiting/target/scala-2.13/classes/DonutShoppingCartServices.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DonutDatabase.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bles/traiting/target/scala-2.13/classes/DonutDatabase.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CassandraDonutStore.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bles/traiting/target/scala-2.13/classes/CassandraDonutStore.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DonutShoppingCart.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bles/traiting/target/scala-2.13/classes/DonutShoppingCart.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DonutShoppingCartDao.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bles/traiting/target/scala-2.13/classes/DonutShoppingCartDao.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DonutInventoryService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/bles/traiting/target/scala-2.13/classes/DonutInventoryService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
